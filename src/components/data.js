@@ -25,12 +25,5 @@ export const projectData = [
       title: 'Meteo Checker',
       description:'Meteo_checker is a user-friendly and convenient weather app that provides accurate weather information for any location in the world.',
       gitHubLink: 'https://github.com/GessyBoy/Meteo_checker',
-    },
-    {
-      id: 5,
-      title: 'Twitch API Use',
-      description:
-        'Personal project to copy twitch with call and use of api to display maps.',
-      gitHubLink: 'https://github.com/GessyBoy/clonetwitch',
-    },
+    }
   ];
