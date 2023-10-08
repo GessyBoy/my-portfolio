@@ -49,7 +49,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
-    background-color: #1D1E20;
+    background-color: transparent;
   }
   
   .nav-container .logo {
@@ -93,7 +93,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
-    background-color: #1D1E20;
+    background-color: transparent;
   }
   
   .footer-container p {
