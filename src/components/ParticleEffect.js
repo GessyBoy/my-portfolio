@@ -8,7 +8,7 @@ const ParticleEffect = () => {
 
     // Créer une scène Three.js
     const scene = new THREE.Scene();
-    scene.background = new THREE.Color(0x282828);
+    scene.background = new THREE.Color(0x000000);
 
     // Créer une caméra
     const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
@@ -21,7 +21,7 @@ const ParticleEffect = () => {
 
     // Créer un effet de particules
     const particleGeometry = new THREE.BufferGeometry();
-    const particleMaterial = new THREE.PointsMaterial({ color: 0xaad8e6, size: 0.05});
+    const particleMaterial = new THREE.PointsMaterial({ color: 0xffffff, size: 0.05});
 
     // Remplir la géométrie avec des positions aléatoires pour les particules
     const particleCount = 1000;
