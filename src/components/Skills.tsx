@@ -15,7 +15,7 @@ const Skills = (): JSX.Element => {
             <i className="fa-brands fa-js-square js-icon"></i>
             <p>JavaScript</p>
           </div>
-          <div className="skill-card react" title="React - Next">
+          <div className="skill-card react" title="React - Nextjs">
             <i className="fa-brands fa-react react-icon"></i>
             <p>React</p>
           </div>
