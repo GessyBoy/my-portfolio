@@ -5,13 +5,11 @@ Getting Started
 
 ## To launch the development server, follow these steps:
 
-bash
-
-``npm run dev
+``npm run dev``
 or
-yarn dev
+``yarn dev``
 or
-pnpm dev``
+``pnpm dev``
 
 Then, open http://localhost:3000 in your browser to see the result.
 
