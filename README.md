@@ -7,11 +7,11 @@ Getting Started
 
 bash
 
-npm run dev
-# or
+``npm run dev
+or
 yarn dev
-# or
-pnpm dev
+or
+pnpm dev``
 
 Then, open http://localhost:3000 in your browser to see the result.
 
