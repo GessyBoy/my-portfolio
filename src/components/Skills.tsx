@@ -7,7 +7,7 @@ const Skills = (): JSX.Element => {
             <i className="fa-brands fa-html5 html-icon"></i>
             <p>HTML</p>
           </div>
-          <div className="skill-card css" title="Css3">
+          <div className="skill-card css" title="Css3 - TailWind">
             <i className="fa-brands fa-css3-alt css-icon"></i>
             <p>CSS</p>
           </div>
@@ -23,13 +23,9 @@ const Skills = (): JSX.Element => {
             <i className="fa-brands fa-angular angular-icon"></i>
             <p>Angular</p>
           </div>
-          <div className="skill-card node" title="Node - Express">
+          <div className="skill-card node" title="Nodejs - Expressjs">
             <i className="fa-brands fa-node-js node-icon"></i>
             <p>Node</p>
-          </div>
-          <div className="skill-card java" title="Java - Spring">
-            <i className="fa-brands fa-java java-icon"></i>
-            <p>Java</p>
           </div>
         </div>
       </div>
