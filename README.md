@@ -17,6 +17,6 @@ Then, open http://localhost:3000 in your browser to see the result.
 
 Deploying on Vercel is simple and swift:
 
-[https://my-portfolio-xjbz-odtvh6nhb-gessyboy.vercel.app]
+[https://my-portfolio-xjbz-7d2oddrwh-gessyboy.vercel.app]
 
 
