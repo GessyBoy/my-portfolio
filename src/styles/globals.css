@@ -48,13 +48,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 0;
-    background-color: #1D1E20;
+    padding: 1rem 2rem; /* Ajuster le rembourrage selon vos besoins */
+    background-color: #32465D; /* Couleur de fond */
+    border-radius: 15px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère pour ajouter de la profondeur */
   }
+  
   
   .nav-container .logo {
     font-size: 1.5rem;
     font-weight: bold;
+    color: #ffffff; /* Couleur du texte */
+    text-shadow: 1px 1px 0 #000; /* Contour du texte en noir */
   }
   
   .cta-btn {
@@ -93,7 +98,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
-    background-color: #1D1E20;
+    background-color: transparent;
   }
   
   .footer-container p {
@@ -141,7 +146,12 @@
     text-align: center;
     margin: 1rem 0;
     width: 80%;
-    background-color: #1D1E20;
+    background-color: rgba(6, 12, 17, 0.8);
+    border-radius: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 30px;
   }
   
   @media screen and (max-width: 768px) {
@@ -188,7 +198,12 @@
     font-size: 2rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    background-color: #1D1E20;
+    display: inline; /* Affiche l'élément en ligne */
+    padding: 0.5rem 1rem; /* Ajoute un espacement intérieur pour le fond */
+    background-color: #32465D; /* Couleur de fond */
+    border-radius: 5px; /* Coins arrondis */
+    color: #ffffff; /* Couleur du texte */
+    text-shadow: 1px 1px 0 #000; /* Contour du texte en noir */
   }
   
   .about-container .flex-about {
@@ -200,7 +215,12 @@
   
   .about-container .flex-about .about-text {
     width: 50%;
-    background-color: #1D1E20;
+    background-color: rgba(6, 12, 17, 0.8);
+    border-radius: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 30px;
   }
   
   .about-container .flex-about .about-text p {
@@ -252,12 +272,19 @@
     font-size: 2rem;
     font-weight: 600;
     margin-bottom: 1rem;
+    display: inline; /* Affiche l'élément en ligne */
+    padding: 0.5rem 1rem; /* Ajoute un espacement intérieur pour le fond */
+    background-color: #32465D; /* Couleur de fond */
+    border-radius: 5px; /* Coins arrondis */
+    color: #ffffff; /* Couleur du texte */
+    text-shadow: 1px 1px 0 #000; /* Contour du texte en noir */
   }
   
   .skills-container .grid-skills {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
+    margin-top: 2rem;
   }
   
   @media screen and (max-width: 768px) {
@@ -320,12 +347,19 @@
     font-size: 2rem;
     font-weight: 600;
     margin-bottom: 1rem;
+    display: inline; /* Affiche l'élément en ligne */
+    padding: 0.5rem 1rem; /* Ajoute un espacement intérieur pour le fond */
+    background-color: #32465D; /* Couleur de fond */
+    border-radius: 5px; /* Coins arrondis */
+    color: #ffffff; /* Couleur du texte */
+    text-shadow: 1px 1px 0 #000; /* Contour du texte en noir */
   }
   
   .projects-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
+    margin-top: 2rem;
   }
   
   @media screen and (max-width: 768px) {
@@ -392,7 +426,12 @@
     flex-direction: column;
     width: 80%;
     margin: 0 auto;
-    background-color: #1D1E20;
+    background-color: rgba(15, 7, 7, 0.8);
+    border-radius: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 30px;
   }
   
   @media screen and (max-width: 768px) {
