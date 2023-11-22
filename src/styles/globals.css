@@ -132,6 +132,7 @@
     align-items: center;
     flex-direction: column;
     padding: 2rem 0;
+    margin-bottom: 1rem;
   }
   
   .hero-container .profile-img {
@@ -197,7 +198,6 @@
   .about-container h2 {
     font-size: 2rem;
     font-weight: 600;
-    margin-bottom: 1rem;
     display: inline; /* Affiche l'élément en ligne */
     padding: 0.5rem 1rem; /* Ajoute un espacement intérieur pour le fond */
     background-color: #32465D; /* Couleur de fond */
@@ -211,6 +211,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 0 2rem;
+    margin-top: 1rem;
   }
   
   .about-container .flex-about .about-text {
