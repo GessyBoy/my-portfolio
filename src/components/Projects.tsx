@@ -10,7 +10,7 @@ const Projects = (): JSX.Element => {
             <a href={project.Link} target="_blank">
               <div className="project-header">
                 <i className="fa-regular fa-folder-open folder-icon"></i>
-               {project.id === 3 && (
+               {project.id === 4 && (
                   <div className="small-icons">
                     <i className="fa-brands fa-github"></i>
                   </div>
