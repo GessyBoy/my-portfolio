@@ -335,8 +335,12 @@
     background-color: #339933;
   }
   
-  .skills-container .grid-skills .java:hover {
-    background-color: #3776AB;
+  .skills-container .grid-skills .php:hover {
+    background-color: #484C89;
+  }
+
+  .skills-container .grid-skills .wordpress:hover {
+    background-color: #444140;
   }
   
   /* Projects */

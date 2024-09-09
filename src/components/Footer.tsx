@@ -4,7 +4,7 @@ const Footer = (): JSX.Element => {
         <hr/>
         <div className="footer-container">
           <p>
-            © {new Date().getFullYear()} Yohann's Portfolio
+            © {new Date().getFullYear()} Portfolio Yohann Deletrez. Tous droits réservés.
           </p>
           <div className="social_icons">
             <a

@@ -5,10 +5,9 @@ const Hero = (): JSX.Element => {
     <div className="hero-container">
       <Image src='/photo__profil.jpg' className="profile-img" width={200} height={200} alt="Yohann's personal headshot" />
       <div className="hero-text">
-        <h1>Hey, I'm Yohann 👋</h1>
+        <h1>Salut, moi c'est Yohann 👋</h1>
         <p>
-          I'm a software developer based in Lille, France. I specialize in building (and occasionally designing)
-          exceptional websites, applications, and everything in between.
+        Développeur de logiciels basé à Lille, France, je me spécialise dans la création et la conception de sites web et d'applications. J'offre également des services de reprise de projets existants et de maintenance de sites web.
         </p>
         <div className="social-icons">
           <a

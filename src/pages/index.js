@@ -10,8 +10,8 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Yohann's Portfolio</title>
-        <meta name="description" content="Yohann's Portfolio" />
+        <title>Portfolio Yohann Deletrez</title>
+        <meta name="description" content="Portfolio Developper Fullstack Javascript" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/DY.ico" />
       </Head>

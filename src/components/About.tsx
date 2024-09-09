@@ -3,22 +3,13 @@ import Image from 'next/image';
 const About = (): JSX.Element => {
   return (
     <div className="about-container">
-      <h2>About Me</h2>
+      <h2>À propos</h2>
       <div className="flex-about">
         <div className="about-text">
           <p>
-            As a developer, I have always been passionate about creating elegant and effective solutions to
-            complex problems. I have a strong foundation in software development, with a focus on web
-            technologies such as HTML, CSS, and JavaScript. I enjoy working on both the front-end and
-            back-end of applications, and I am always looking for ways to optimize performance, improve user
-            experience, and ensure the highest level of code quality.
+          En tant que développeur, je suis passionné par la création de solutions élégantes et efficaces pour résoudre des problèmes complexes. Avec une solide expérience en développement de logiciels, je me concentre sur les technologies web telles que HTML, CSS et JavaScript. J'aime travailler à la fois sur le front-end et le back-end des applications, en recherchant constamment des moyens d'optimiser les performances, d'améliorer l'expérience utilisateur et de garantir une qualité de code irréprochable.
           </p>
-          <p>Throughout my career, I have worked on a wide range of projects, from simple static websites to
-            complex enterprise-level applications. I am experienced in working with a variety of development
-            tools and frameworks, including React, Angular, 
-           Spring , Node.js, and PHP. I am always eager
-            to learn and explore new technologies, and I am constantly seeking out opportunities to improve
-            my skills and knowledge.</p>
+          <p>Au cours de ma carrière, j'ai participé à une grande variété de projets, allant de simples sites web statiques à des applications complexes de niveau entreprise. J'ai acquis une expertise avec divers outils et frameworks de développement, notamment React, Angular, Node.js et PHP. Toujours curieux d'apprendre et d'explorer de nouvelles technologies, je cherche sans cesse à perfectionner mes compétences et à enrichir mes connaissances.</p>
         </div>
         <div className="about-img">
         <Image src='/on_ouvre_ou_pas.jpg' alt='about-me' className="profile-img" width={300} height={500} />
