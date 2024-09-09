@@ -17,6 +17,6 @@ Then, open http://localhost:3000 in your browser to see the result.
 
 Deploying on Vercel is simple and swift:
 
-[https://my-portfolio-xjbz.vercel.app/]
+<a href="https://my-portfolio-xjbz.vercel.app/" target="_blank" alt="Portfolio">Portfolio</a>
 
 
