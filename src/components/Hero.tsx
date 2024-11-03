@@ -7,7 +7,7 @@ const Hero = (): JSX.Element => {
       <div className="hero-text">
         <h1>Salut, moi c'est Yohann 👋</h1>
         <p>
-        Développeur de logiciels basé à Lille (59), je me spécialise dans la création et la conception de sites web et d'applications. Je propose également des services de reprise de projets existants et de maintenance de sites web.
+        Développeur de logiciels basé à Lille, je me spécialise dans la création et la conception de sites web et d'applications. Je propose également des services de reprise de projets existants et de maintenance de sites web.
         </p>
         <div className="social-icons">
           <a
