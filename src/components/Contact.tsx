@@ -2,7 +2,8 @@ const Contact = () => {
     return (
       <div className="contact-container" id="contact-container">
         <h2>Contactez-moi</h2>
-        <p>Vous souhaitez collaborer, poser des questions ou me voir intervenir lors de votre événement ? Ma boîte mail est toujours ouverte ! Que vous vouliez simplement dire bonjour ou discuter d’un projet, je serai ravi de vous répondre dans les plus brefs délais. À très bientôt !</p>
+        <p>Vous avez un projet à réaliser, des questions à poser ou souhaitez discuter d'une collaboration, n'hésitez pas à me contacter. Je serai ravi de vous accompagner dans vos besoins et de vous répondre rapidement. À très bientôt !
+        </p>
         <a href="mailto:contact@toupa.fr" className='cta-btn'>Envoyez un message</a>
       </div>
     )
