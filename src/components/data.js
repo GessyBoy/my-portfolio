@@ -17,7 +17,7 @@ export const projectData = [
     title: "J-imo",
     description:
       "Gestion locative. JIMO automatise vos tâches chronophages tout en offrant un soutien humain pour une gestion simplifiée et efficace de vos biens.",
-    Link: "https://www.j-imo.com/",
+    Link: "https://app.j-imo.com/",
   },
   /*{
     id: 4,
