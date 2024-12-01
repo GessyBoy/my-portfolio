@@ -12,13 +12,13 @@ export const projectData = [
     description:"Coolorfool est une marque de chaussettes et mi-bas fabriqués en Italie à partir de fil d’Écosse et de laine mérinos. Les produits sont confectionnés dans un atelier familial, garantissant ainsi un savoir-faire artisanal de qualité. La marque propose ses articles via un site e-commerce.",
     Link: "https://coolorfool.eu/index.php?",
   },
-  {
+ /* {
     id: 3,
     title: "J-imo",
     description:
       "Gestion locative. JIMO automatise vos tâches chronophages tout en offrant un soutien humain pour une gestion simplifiée et efficace de vos biens.",
     Link: "https://app.j-imo.com/",
-  },
+  },*/
   /*{
     id: 4,
     title: "De Laure et d'épices",
@@ -26,11 +26,11 @@ export const projectData = [
       "Partez en voyage avec De Laure et d'Épices, une plateforme de commerce en ligne dédiée à la vente de thés bio de haute qualité, élaborés avec un engagement envers l'agriculture responsable.",
     Link: "https://www.delaureetdepices.fr/",
   },*/
-    /*{
+    {
       id: 5,
       title: "DC-Comiques",
       description:
         "Developer friend, a game where you are the hero.Would you manage to go to the end of your mission ?",
       Link: "https://github.com/WildCodeSchool/2022-11-JS-RemoteFR-Geekrew-P2-DC-Comiques",
-    },*/
+    },
   ];
