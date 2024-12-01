@@ -339,6 +339,10 @@
     background-color: #484C89;
   }
 
+  .skills-container .grid-skills .symfony:hover {
+    background-color: #FFFFFF;
+  }
+
   .skills-container .grid-skills .wordpress:hover {
     background-color: #444140;
   }
