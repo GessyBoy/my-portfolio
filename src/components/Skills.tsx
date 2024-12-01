@@ -12,18 +12,18 @@ const Skills = (): JSX.Element => {
             <p>CSS</p>
           </div>
           <div className="skill-card js" title="Javascript - Typescript">
-            <i className="fa-brands fa-ts-square js-icon"></i>
+            <i className="fa-brands fa-js-square js-icon"></i>
             <p>JavaScript</p>
           </div>
           <div className="skill-card react" title="React - Nextjs">
             <i className="fa-brands fa-react react-icon"></i>
             <p>React</p>
           </div>
-          <div className="skill-card angular" title="Angular">
-            <i className="fa-brands fa-angular angular-icon"></i>
-            <p>Angular</p>
+          <div className="skill-card vue" title="Vue">
+            <i className="fa-brands fa-vue vue-icon"></i>
+            <p>Vue</p>
           </div>
-          <div className="skill-card node" title="Nestjs - Expressjs">
+          <div className="skill-card node" title="Expressjs">
             <i className="fa-brands fa-node-js node-icon"></i>
             <p>Node</p>
           </div>
