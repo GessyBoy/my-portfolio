@@ -328,8 +328,8 @@
     background-color: #61DAFB;
   }
   
-  .skills-container .grid-skills .angular:hover {
-    background-color: #FF0000;
+  .skills-container .grid-skills .vue:hover {
+    background-color: #41B883;
   }
   .skills-container .grid-skills .node:hover {
     background-color: #339933;

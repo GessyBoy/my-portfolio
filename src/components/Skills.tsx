@@ -19,8 +19,8 @@ const Skills = (): JSX.Element => {
             <i className="fa-brands fa-react react-icon"></i>
             <p>React</p>
           </div>
-          <div className="skill-card vue" title="Vue">
-            <i className="fa-brands fa-vue vue-icon"></i>
+          <div className="skill-card vuejs" title="Vue.js">
+            <i className="fa-brands fa-vuejs vuejs-icon"></i>
             <p>Vue</p>
           </div>
           <div className="skill-card node" title="Expressjs">
