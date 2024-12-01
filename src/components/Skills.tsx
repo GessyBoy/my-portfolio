@@ -12,7 +12,7 @@ const Skills = (): JSX.Element => {
             <p>CSS</p>
           </div>
           <div className="skill-card js" title="Javascript - Typescript">
-            <i className="fa-brands fa-js-square js-icon"></i>
+            <i className="fa-brands fa-ts-square js-icon"></i>
             <p>JavaScript</p>
           </div>
           <div className="skill-card react" title="React - Nextjs">
